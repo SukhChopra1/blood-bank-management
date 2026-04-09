@@ -5,5 +5,12 @@
     "email": "choprasukh304@gmail.com",
     "password": "$2b$10$nCqNdUGxKMJFyei6N99V4eAKgCVCOGs1euJpNKnLHJGcbm/7ayI06",
     "createdAt": "2026-01-28T09:16:56.345Z"
+  },
+  {
+    "id": "1775738514468",
+    "name": "kapil sharma",
+    "email": "choprasukh04@gmail.com",
+    "password": "$2b$10$bAjj9ijt6GqVE9voUjnK6upmWG1iolspIUJqKxLpZdiapqBqNVaye",
+    "createdAt": "2026-04-09T12:41:54.468Z"
   }
 ]
